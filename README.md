@@ -26,7 +26,7 @@ git clone https://github.com/AntonShkvir/dogs-sell-bot.git
 ```
 ### 2. Navigate to the project directory:
 ```bash
-cd dogs-crypto-bot
+cd dogs-sell-bot
  ```
 
 ### 3. Install the dependencies: 
